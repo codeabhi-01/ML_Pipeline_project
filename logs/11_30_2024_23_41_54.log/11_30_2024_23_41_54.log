@@ -1,0 +1,5 @@
+[ 2024-11-30 23:41:54,407 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-11-30 23:41:54,426 ] 97 werkzeug - INFO -  * Debugger PIN: 890-187-585
+[ 2024-11-30 23:42:36,243 ] 14 root - INFO - We are testing our second method of logging
+[ 2024-11-30 23:42:36,244 ] 97 werkzeug - INFO - 127.0.0.1 - - [30/Nov/2024 23:42:36] "GET / HTTP/1.1" 200 -
+[ 2024-11-30 23:43:23,610 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Project\\ML_Pipeline_project\\app.py', reloading
